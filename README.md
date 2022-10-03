@@ -13,3 +13,9 @@ You can contribute in this project by adding some new features or anything in yo
 
 <br> 
 For any query dm here -https://www.instagram.com/lets__code/
+
+<br>
+<br>
+
+![localhost_weather-app_](https://user-images.githubusercontent.com/34055979/193646306-4d0e7a3b-e555-46fa-81bd-d29d941275bb.png)
+
