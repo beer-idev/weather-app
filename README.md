@@ -16,6 +16,12 @@ For any query dm here -https://www.instagram.com/lets__code/
 
 <br>
 <br>
+# <h1 align="center">Before</h1> 
+
+![avinash201199 github io_weather-app_](https://user-images.githubusercontent.com/34055979/193646707-32b48875-6535-4c9a-b631-d26d1734a69e.png)
+
+
+# <h1 align="center">After Modify</h1> 
 
 ![localhost_weather-app_](https://user-images.githubusercontent.com/34055979/193646306-4d0e7a3b-e555-46fa-81bd-d29d941275bb.png)
 
